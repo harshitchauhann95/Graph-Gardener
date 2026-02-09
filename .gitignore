@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Images & media
+*.png
+*.jpg
+*.jpeg
+
+# Data
+*.csv
+
+# Folders you never want in repo
+Pictures/
+documents/
+personal/
+screenshots/
