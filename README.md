@@ -1,4 +1,4 @@
-# 🌿 Graph-Greener Pro
+# 🌿 Graph-Gardner Pro
 
 ### 🌟 Make Your GitHub Contribution Graph Vibrant and Active! 🌟
 
