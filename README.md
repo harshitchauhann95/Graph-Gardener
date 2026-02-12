@@ -46,17 +46,18 @@ This script automates the process of generating a commit history. It allows you 
 	•	Filename to modify (default: contributions.log)
 5.	Push to remote (optional) after commits are created
 
-##⚠️ Recommended Best Practices
-	•	Use private repositories to avoid interfering with public project history.
-	•	Do not overuse the script; keep intensity moderate.
-	•	Remember, this is for aesthetic purposes only, not for resume or job deception.
+## ⚠️ Recommended Best Practices
 
-##💡 Suggestions for Improvement
-	•	Add branch-specific commit safety.
-	•	Wrap git commands in try/except for safer execution.
-	•	Create a real analytics version that visualizes contribution history without faking commits.
+- Use **private repositories** to avoid interfering with public project history.  
+- Do **not overuse** the script; keep intensity moderate.  
+- Remember, this is **for aesthetic purposes only**, not for resume or job deception.  
 
-##📄 License
+## 💡 Suggestions for Improvement
 
-This project is open-source and free to use for educational purposes. Use responsibly.
+- Add **branch-specific commit safety**.  
+- Wrap git commands in **try/except** for safer execution.  
+- Create a **real analytics version** that visualizes contribution history without faking commits.  
 
+## 📄 License
+
+This project is **open-source** and free to use for educational purposes. Use responsibly.
